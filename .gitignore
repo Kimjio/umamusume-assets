@@ -75,3 +75,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ssets*
 /[Aa]ssets/[Ff]onts*
 /[Aa]ssets/[Rr]eplace_assets*
+/[Aa]ssets/[Rr]eplace_atlas*
