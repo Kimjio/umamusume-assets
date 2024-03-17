@@ -5,10 +5,10 @@ using UnityEngine;
 
 public class TestBehaviourScript : MonoBehaviour
 {
-	public Action action = delegate() {
-		Console.WriteLine("Hello World!");
-	};
-	
+    public Action action = delegate () {
+        Console.WriteLine("Hello World!");
+    };
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +18,6 @@ public class TestBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
