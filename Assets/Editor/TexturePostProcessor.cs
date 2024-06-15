@@ -9,6 +9,9 @@ public class TexturePostProcessor : AssetPostprocessor
         importer.wrapMode = TextureWrapMode.Clamp;
         importer.mipmapEnabled = false;
         importer.npotScale = TextureImporterNPOTScale.None;
-        importer.GetDefaultPlatformTextureSettings().resizeAlgorithm = TextureResizeAlgorithm.Bilinear;
+        var platform = importer.GetDefaultPlatformTextureSettings();
+        platform.resizeAlgorithm = TextureResizeAlgorithm.Bilinear;
+        platform.textureCompression = TextureImporterCompression.CompressedHQ;
+        importer.SetPlatformTextureSettings(platform);
     }
 }
