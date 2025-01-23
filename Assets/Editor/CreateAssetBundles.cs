@@ -15,6 +15,6 @@ public class CreateAssetBundles
     [MenuItem("Assets/Build AssetBundles (StandaloneWindows64)")]
     static void BuildAllAssetBundlesStandaloneWindows64()
     {
-        BuildPipeline.BuildAssetBundles("Assets/", BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows64);
+        BuildPipeline.BuildAssetBundles("Assets/", BuildAssetBundleOptions.ChunkBasedCompression, BuildTarget.StandaloneWindows64);
     }
 }
