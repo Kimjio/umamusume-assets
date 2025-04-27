@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 443ccf23ec70beb4a9844012f554a7b8, type: 3}
+  m_Name: _Campaign
+  m_EditorClassIdentifier: 
+  material: {fileID: 0}
+  sprites:
+  - {fileID: 21300000, guid: cc15662021af50b4db4f3b9bcae204aa, type: 3}
+  - {fileID: 21300000, guid: e728503c2e1eb1640ae4dd973f315532, type: 3}
+  - {fileID: 21300000, guid: 6c9d62a0f4d76fc48a703fd2041564c6, type: 3}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 443ccf23ec70beb4a9844012f554a7b8, type: 3}
+  m_Name: _SingleModeScenarioVenus
+  m_EditorClassIdentifier: 
+  material: {fileID: 0}
+  sprites:
+  - {fileID: 21300000, guid: a5e32f71cf6e331489df2b1aa9ec9209, type: 3}
+  - {fileID: 21300000, guid: 249c0b22142f52a4d952f1da968dfa1c, type: 3}
+  - {fileID: 21300000, guid: 3e55b4e954ca6c14ca01e720249fd9f7, type: 3}
+  - {fileID: 21300000, guid: b575f9750f7191a44ba083e4babd77de, type: 3}
+  - {fileID: 21300000, guid: d63d6dd6a76d221438f4eff6bd94a212, type: 3}
+  - {fileID: 21300000, guid: 5aadef7a6be39264f8fb93f276b5eead, type: 3}
+  - {fileID: 21300000, guid: 56ea9a8eec1c4c5449619747757af7eb, type: 3}
+  - {fileID: 21300000, guid: 35853127087857643a5f2060a3456d7e, type: 3}
+  - {fileID: 21300000, guid: 3fc633c4015b0e54892f24b3d4d4e950, type: 3}
+  - {fileID: 21300000, guid: 66857169991e0a4409dee23369eef25f, type: 3}
+  - {fileID: 21300000, guid: f6506d16e7cc17d46a9604f698f8f1d5, type: 3}
+  - {fileID: 21300000, guid: 65189a9c58afcfc4db0ec4a4492bb4fc, type: 3}
+  - {fileID: 21300000, guid: f3c3d93213de3434f8a036f9cec5192b, type: 3}
+  - {fileID: 21300000, guid: f9495646626141d4788049ccd810e751, type: 3}
+  - {fileID: 21300000, guid: 553d80efcd8581d4da1f031329833660, type: 3}

@@ -9,10 +9,20 @@ public class TexturePostProcessor : AssetPostprocessor
         importer.textureType = TextureImporterType.Sprite;
         importer.wrapMode = TextureWrapMode.Clamp;
         importer.mipmapEnabled = false;
+        importer.spriteImportMode = SpriteImportMode.Single;
         importer.npotScale = TextureImporterNPOTScale.None;
+
+        TextureImporterSettings settings = new TextureImporterSettings();
+        importer.ReadTextureSettings(settings);
+
+        // settings.spriteMeshType = SpriteMeshType.FullRect;
+        importer.SetTextureSettings(settings);
+
         var platform = importer.GetDefaultPlatformTextureSettings();
         platform.resizeAlgorithm = TextureResizeAlgorithm.Mitchell;
-        platform.textureCompression = TextureImporterCompression.CompressedHQ;
+        // platform.textureCompression = TextureImporterCompression.Uncompressed;
         importer.SetPlatformTextureSettings(platform);
+
+        importer.SaveAndReimport();
     }
 }
