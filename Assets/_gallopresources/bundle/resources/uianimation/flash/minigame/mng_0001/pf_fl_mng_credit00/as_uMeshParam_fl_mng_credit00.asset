@@ -1,0 +1,250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_mng_credit00
+  m_EditorClassIdentifier: 
+  _id: 4a43f5eb2f2e61042b9b5dd59fb69a61
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_mng_credit00_0
+    _textureSetSize: {x: 512, y: 512}
+    _textureSetColor: {fileID: 2800000, guid: ab6a6b1d6eb3418478ebed51caf375b1, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: credit
+      _fixTextureName: credit
+      _size: {x: 187, y: 45}
+      _offset: {x: 93.5, y: -22.5}
+      _uvSize: {x: 0.36523438, y: 0.087890625}
+      _uvOffset: {x: 0.00390625, y: 0.9082031}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fast
+      _fixTextureName: fast
+      _size: {x: 112, y: 48}
+      _offset: {x: 56, y: -24}
+      _uvSize: {x: 0.21875, y: 0.09375}
+      _uvOffset: {x: 0.5, y: 0.5}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: normal
+      _fixTextureName: normal
+      _size: {x: 116, y: 48}
+      _offset: {x: 58, y: -24}
+      _uvSize: {x: 0.2265625, y: 0.09375}
+      _uvOffset: {x: 0.6464844, y: 0.90234375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_01
+      _fixTextureName: play_game_acquisition_01
+      _size: {x: 116, y: 48}
+      _offset: {x: 58, y: -24}
+      _uvSize: {x: 0.2265625, y: 0.09375}
+      _uvOffset: {x: 0.6464844, y: 0.8046875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_02
+      _fixTextureName: play_game_acquisition_02
+      _size: {x: 40, y: 48}
+      _offset: {x: 20, y: -24}
+      _uvSize: {x: 0.078125, y: 0.09375}
+      _uvOffset: {x: 0.7109375, y: 0.40234375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_0
+      _fixTextureName: play_game_acquisition_num_0
+      _size: {x: 68, y: 92}
+      _offset: {x: 34, y: -46}
+      _uvSize: {x: 0.1328125, y: 0.1796875}
+      _uvOffset: {x: 0.1875, y: 0.7246094}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_1
+      _fixTextureName: play_game_acquisition_num_1
+      _size: {x: 44, y: 88}
+      _offset: {x: 22, y: -44}
+      _uvSize: {x: 0.0859375, y: 0.171875}
+      _uvOffset: {x: 0.27734375, y: 0.33203125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_2
+      _fixTextureName: play_game_acquisition_num_2
+      _size: {x: 64, y: 92}
+      _offset: {x: 32, y: -46}
+      _uvSize: {x: 0.125, y: 0.1796875}
+      _uvOffset: {x: 0.00390625, y: 0.24023438}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_3
+      _fixTextureName: play_game_acquisition_num_3
+      _size: {x: 68, y: 92}
+      _offset: {x: 34, y: -46}
+      _uvSize: {x: 0.1328125, y: 0.1796875}
+      _uvOffset: {x: 0.00390625, y: 0.42382812}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_4
+      _fixTextureName: play_game_acquisition_num_4
+      _size: {x: 72, y: 88}
+      _offset: {x: 36, y: -44}
+      _uvSize: {x: 0.171875, y: 0.140625}
+      _uvOffset: {x: 0.1875, y: 0.546875}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_5
+      _fixTextureName: play_game_acquisition_num_5
+      _size: {x: 68, y: 92}
+      _offset: {x: 34, y: -46}
+      _uvSize: {x: 0.1328125, y: 0.1796875}
+      _uvOffset: {x: 0.36328125, y: 0.5078125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_6
+      _fixTextureName: play_game_acquisition_num_6
+      _size: {x: 68, y: 92}
+      _offset: {x: 34, y: -46}
+      _uvSize: {x: 0.1796875, y: 0.1328125}
+      _uvOffset: {x: 0.46289062, y: 0.86328125}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_7
+      _fixTextureName: play_game_acquisition_num_7
+      _size: {x: 64, y: 88}
+      _offset: {x: 32, y: -44}
+      _uvSize: {x: 0.171875, y: 0.125}
+      _uvOffset: {x: 0.5, y: 0.59765625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_8
+      _fixTextureName: play_game_acquisition_num_8
+      _size: {x: 68, y: 92}
+      _offset: {x: 34, y: -46}
+      _uvSize: {x: 0.1796875, y: 0.1328125}
+      _uvOffset: {x: 0.46289062, y: 0.7265625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_acquisition_num_9
+      _fixTextureName: play_game_acquisition_num_9
+      _size: {x: 68, y: 92}
+      _offset: {x: 34, y: -46}
+      _uvSize: {x: 0.1328125, y: 0.1796875}
+      _uvOffset: {x: 0.140625, y: 0.36328125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_credit_num_0
+      _fixTextureName: play_game_credit_num_0
+      _size: {x: 40, y: 56}
+      _offset: {x: 20, y: -28}
+      _uvSize: {x: 0.109375, y: 0.078125}
+      _uvOffset: {x: 0.1328125, y: 0.28125}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_credit_num_1
+      _fixTextureName: play_game_credit_num_1
+      _size: {x: 28, y: 52}
+      _offset: {x: 14, y: -26}
+      _uvSize: {x: 0.1015625, y: 0.0546875}
+      _uvOffset: {x: 0.78125, y: 0.74609375}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_credit_num_2
+      _fixTextureName: play_game_credit_num_2
+      _size: {x: 36, y: 52}
+      _offset: {x: 18, y: -26}
+      _uvSize: {x: 0.1015625, y: 0.0703125}
+      _uvOffset: {x: 0.72265625, y: 0.56640625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_credit_num_3
+      _fixTextureName: play_game_credit_num_3
+      _size: {x: 40, y: 52}
+      _offset: {x: 20, y: -26}
+      _uvSize: {x: 0.078125, y: 0.1015625}
+      _uvOffset: {x: 0.3671875, y: 0.40234375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_credit_num_4
+      _fixTextureName: play_game_credit_num_4
+      _size: {x: 40, y: 52}
+      _offset: {x: 20, y: -26}
+      _uvSize: {x: 0.1015625, y: 0.078125}
+      _uvOffset: {x: 0.67578125, y: 0.72265625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_credit_num_5
+      _fixTextureName: play_game_credit_num_5
+      _size: {x: 40, y: 52}
+      _offset: {x: 20, y: -26}
+      _uvSize: {x: 0.1015625, y: 0.078125}
+      _uvOffset: {x: 0.67578125, y: 0.640625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_credit_text
+      _fixTextureName: play_game_credit_text
+      _size: {x: 156, y: 44}
+      _offset: {x: 78, y: -22}
+      _uvSize: {x: 0.0859375, y: 0.3046875}
+      _uvOffset: {x: 0.37304688, y: 0.69140625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: play_game_line_02
+      _fixTextureName: play_game_line_02
+      _size: {x: 360, y: 16}
+      _offset: {x: 180, y: -8}
+      _uvSize: {x: 0.703125, y: 0.03125}
+      _uvOffset: {x: 0.00390625, y: 0.20507812}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed
+      _fixTextureName: speed
+      _size: {x: 146, y: 45}
+      _offset: {x: 73, y: -22.5}
+      _uvSize: {x: 0.087890625, y: 0.28515625}
+      _uvOffset: {x: 0.095703125, y: 0.6191406}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: super_fast
+      _fixTextureName: super_fast
+      _size: {x: 152, y: 45}
+      _offset: {x: 76, y: -22.5}
+      _uvSize: {x: 0.087890625, y: 0.296875}
+      _uvOffset: {x: 0.00390625, y: 0.6074219}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

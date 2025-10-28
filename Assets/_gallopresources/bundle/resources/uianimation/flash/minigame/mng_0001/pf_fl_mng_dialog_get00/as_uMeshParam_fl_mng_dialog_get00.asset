@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_mng_dialog_get00
+  m_EditorClassIdentifier: 
+  _id: 13365d651ce0c58439639337506bf37e
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_mng_dialog_get00_0
+    _textureSetSize: {x: 2048, y: 1024}
+    _textureSetColor: {fileID: 2800000, guid: 06a73d4aa5e32a54489ebdb369fb1d04, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: dialog_acquisition_01
+      _fixTextureName: dialog_acquisition_01
+      _size: {x: 152, y: 60}
+      _offset: {x: 76, y: -30}
+      _uvSize: {x: 0.07421875, y: 0.05859375}
+      _uvOffset: {x: 0.64208984, y: 0.6123047}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_02
+      _fixTextureName: dialog_acquisition_02
+      _size: {x: 52, y: 60}
+      _offset: {x: 26, y: -30}
+      _uvSize: {x: 0.025390625, y: 0.05859375}
+      _uvOffset: {x: 0.56689453, y: 0.4482422}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_0
+      _fixTextureName: dialog_acquisition_num_0
+      _size: {x: 76, y: 104}
+      _offset: {x: 38, y: -52}
+      _uvSize: {x: 0.037109375, y: 0.1015625}
+      _uvOffset: {x: 0.64208984, y: 0.50878906}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_1
+      _fixTextureName: dialog_acquisition_num_1
+      _size: {x: 48, y: 100}
+      _offset: {x: 24, y: -50}
+      _uvSize: {x: 0.048828125, y: 0.046875}
+      _uvOffset: {x: 0.71728516, y: 0.62402344}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_2
+      _fixTextureName: dialog_acquisition_num_2
+      _size: {x: 72, y: 100}
+      _offset: {x: 36, y: -50}
+      _uvSize: {x: 0.03515625, y: 0.09765625}
+      _uvOffset: {x: 0.4946289, y: 0.4296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_3
+      _fixTextureName: dialog_acquisition_num_3
+      _size: {x: 76, y: 104}
+      _offset: {x: 38, y: -52}
+      _uvSize: {x: 0.037109375, y: 0.1015625}
+      _uvOffset: {x: 0.6801758, y: 0.50878906}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_4
+      _fixTextureName: dialog_acquisition_num_4
+      _size: {x: 76, y: 100}
+      _offset: {x: 38, y: -50}
+      _uvSize: {x: 0.037109375, y: 0.09765625}
+      _uvOffset: {x: 0.41845703, y: 0.4296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_5
+      _fixTextureName: dialog_acquisition_num_5
+      _size: {x: 76, y: 100}
+      _offset: {x: 38, y: -50}
+      _uvSize: {x: 0.037109375, y: 0.09765625}
+      _uvOffset: {x: 0.45654297, y: 0.4296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_6
+      _fixTextureName: dialog_acquisition_num_6
+      _size: {x: 76, y: 104}
+      _offset: {x: 38, y: -52}
+      _uvSize: {x: 0.05078125, y: 0.07421875}
+      _uvOffset: {x: 0.32861328, y: 0.453125}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_7
+      _fixTextureName: dialog_acquisition_num_7
+      _size: {x: 72, y: 100}
+      _offset: {x: 36, y: -50}
+      _uvSize: {x: 0.03515625, y: 0.09765625}
+      _uvOffset: {x: 0.5307617, y: 0.4296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_8
+      _fixTextureName: dialog_acquisition_num_8
+      _size: {x: 76, y: 104}
+      _offset: {x: 38, y: -52}
+      _uvSize: {x: 0.037109375, y: 0.1015625}
+      _uvOffset: {x: 0.3803711, y: 0.42578125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_acquisition_num_9
+      _fixTextureName: dialog_acquisition_num_9
+      _size: {x: 76, y: 104}
+      _offset: {x: 38, y: -52}
+      _uvSize: {x: 0.037109375, y: 0.1015625}
+      _uvOffset: {x: 0.32861328, y: 0.34960938}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: dialog_utx_frm_minigame_line_00_sl
+      _fixTextureName: dialog_utx_frm_minigame_line_00_sl
+      _size: {x: 508, y: 16}
+      _offset: {x: 254, y: -8}
+      _uvSize: {x: 0.0078125, y: 0.49609375}
+      _uvOffset: {x: 0.80566406, y: 0.5019531}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: eff_lig_gr00
+      _fixTextureName: eff_lig_gr00
+      _size: {x: 333, y: 333}
+      _offset: {x: -1.75, y: 0.85}
+      _uvSize: {x: 0.16259766, y: 0.3251953}
+      _uvOffset: {x: 0.64208984, y: 0.67285156}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: flash_0
+      _fixTextureName: flash_0
+      _size: {x: 640, y: 480}
+      _offset: {x: 320, y: -240}
+      _uvSize: {x: 0.3125, y: 0.46875}
+      _uvOffset: {x: 0.32861328, y: 0.5292969}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_circle_effect
+      _fixTextureName: img_circle_effect
+      _size: {x: 669, y: 669}
+      _offset: {x: 334.5, y: -334.5}
+      _uvSize: {x: 0.32666016, y: 0.6533203}
+      _uvOffset: {x: 0.0009765625, y: 0.34472656}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

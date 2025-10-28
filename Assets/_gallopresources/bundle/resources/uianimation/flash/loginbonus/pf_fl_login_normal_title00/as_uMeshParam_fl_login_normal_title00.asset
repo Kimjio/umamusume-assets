@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_login_normal_title00
+  m_EditorClassIdentifier: 
+  _id: 50e7c4b4308280d43a34089033aa17a7
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_login_normal_title00_0
+    _textureSetSize: {x: 1024, y: 512}
+    _textureSetColor: {fileID: 2800000, guid: 136c9e357856fd8429e3c8de687530af, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: ef_add_glow
+      _fixTextureName: ef_add_glow
+      _size: {x: 322, y: 242}
+      _offset: {x: 161, y: -121}
+      _uvSize: {x: 0.31445312, y: 0.47265625}
+      _uvOffset: {x: 0.6660156, y: 0.5234375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_logo_emblem00
+      _fixTextureName: img_logo_emblem00
+      _size: {x: 678, y: 357}
+      _offset: {x: 339, y: -178.5}
+      _uvSize: {x: 0.6621094, y: 0.6972656}
+      _uvOffset: {x: 0.001953125, y: 0.29882812}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title00
+      _fixTextureName: img_txt_loginbonus_title00
+      _size: {x: 96, y: 96}
+      _offset: {x: 48, y: -48}
+      _uvSize: {x: 0.09375, y: 0.1875}
+      _uvOffset: {x: 0.9042969, y: 0.33203125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title01
+      _fixTextureName: img_txt_loginbonus_title01
+      _size: {x: 98, y: 86}
+      _offset: {x: 49, y: -43}
+      _uvSize: {x: 0.095703125, y: 0.16796875}
+      _uvOffset: {x: 0.001953125, y: 0.12695312}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title02
+      _fixTextureName: img_txt_loginbonus_title02
+      _size: {x: 105, y: 95}
+      _offset: {x: 52.5, y: -47.5}
+      _uvSize: {x: 0.10253906, y: 0.18554688}
+      _uvOffset: {x: 0.8017578, y: 0.13671875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title03
+      _fixTextureName: img_txt_loginbonus_title03
+      _size: {x: 98, y: 99}
+      _offset: {x: 49, y: -49.5}
+      _uvSize: {x: 0.095703125, y: 0.19335938}
+      _uvOffset: {x: 0.6660156, y: 0.115234375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title04
+      _fixTextureName: img_txt_loginbonus_title04
+      _size: {x: 137, y: 106}
+      _offset: {x: 68.5, y: -53}
+      _uvSize: {x: 0.13378906, y: 0.20703125}
+      _uvOffset: {x: 0.6660156, y: 0.3125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title05
+      _fixTextureName: img_txt_loginbonus_title05
+      _size: {x: 86, y: 98}
+      _offset: {x: 43, y: -49}
+      _uvSize: {x: 0.083984375, y: 0.19140625}
+      _uvOffset: {x: 0.099609375, y: 0.103515625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title06
+      _fixTextureName: img_txt_loginbonus_title06
+      _size: {x: 103, y: 99}
+      _offset: {x: 51.5, y: -49.5}
+      _uvSize: {x: 0.10058594, y: 0.19335938}
+      _uvOffset: {x: 0.8017578, y: 0.32617188}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_loginbonus_title07
+      _fixTextureName: img_txt_loginbonus_title07
+      _size: {x: 100, y: 92}
+      _offset: {x: 50, y: -46}
+      _uvSize: {x: 0.08984375, y: 0.1953125}
+      _uvOffset: {x: 0.90625, y: 0.1328125}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

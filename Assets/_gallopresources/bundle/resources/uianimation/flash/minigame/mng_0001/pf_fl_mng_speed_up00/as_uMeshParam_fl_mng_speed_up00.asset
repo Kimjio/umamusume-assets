@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_mng_speed_up00
+  m_EditorClassIdentifier: 
+  _id: 8ab4c333d1a99294e954fdee27d70a41
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_mng_speed_up00_0
+    _textureSetSize: {x: 1024, y: 1024}
+    _textureSetColor: {fileID: 2800000, guid: c51c4b756317aa948a2b0d1ca4c872b8, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: speed_up_01
+      _fixTextureName: speed_up_01
+      _size: {x: 172, y: 160}
+      _offset: {x: 86, y: -80}
+      _uvSize: {x: 0.16796875, y: 0.15625}
+      _uvOffset: {x: 0.70703125, y: 0.1875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_02
+      _fixTextureName: speed_up_02
+      _size: {x: 160, y: 172}
+      _offset: {x: 80, y: -86}
+      _uvSize: {x: 0.15625, y: 0.16796875}
+      _uvOffset: {x: 0.15722656, y: 0.1484375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_03
+      _fixTextureName: speed_up_03
+      _size: {x: 122, y: 150}
+      _offset: {x: 61, y: -75}
+      _uvSize: {x: 0.119140625, y: 0.14648438}
+      _uvOffset: {x: 0.83203125, y: 0.01171875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_04
+      _fixTextureName: speed_up_04
+      _size: {x: 132, y: 172}
+      _offset: {x: 66, y: -86}
+      _uvSize: {x: 0.12890625, y: 0.16796875}
+      _uvOffset: {x: 0.3154297, y: 0.08984375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_05
+      _fixTextureName: speed_up_05
+      _size: {x: 144, y: 168}
+      _offset: {x: 72, y: -84}
+      _uvSize: {x: 0.140625, y: 0.1640625}
+      _uvOffset: {x: 0.55859375, y: 0.095703125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_06
+      _fixTextureName: speed_up_06
+      _size: {x: 150, y: 190}
+      _offset: {x: 75, y: -95}
+      _uvSize: {x: 0.14648438, y: 0.18554688}
+      _uvOffset: {x: 0.55859375, y: 0.26171875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_07
+      _fixTextureName: speed_up_07
+      _size: {x: 108, y: 188}
+      _offset: {x: 54, y: -94}
+      _uvSize: {x: 0.10546875, y: 0.18359375}
+      _uvOffset: {x: 0.8769531, y: 0.16015625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_shadow_01
+      _fixTextureName: speed_up_shadow_01
+      _size: {x: 192, y: 176}
+      _offset: {x: 96, y: -88}
+      _uvSize: {x: 0.1875, y: 0.171875}
+      _uvOffset: {x: 0.77734375, y: 0.34570312}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_shadow_02
+      _fixTextureName: speed_up_shadow_02
+      _size: {x: 180, y: 192}
+      _offset: {x: 90, y: -96}
+      _uvSize: {x: 0.17578125, y: 0.1875}
+      _uvOffset: {x: 0.77734375, y: 0.51953125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_shadow_03
+      _fixTextureName: speed_up_shadow_03
+      _size: {x: 132, y: 160}
+      _offset: {x: 66, y: -80}
+      _uvSize: {x: 0.12890625, y: 0.15625}
+      _uvOffset: {x: 0.7011719, y: 0.029296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_shadow_04
+      _fixTextureName: speed_up_shadow_04
+      _size: {x: 152, y: 192}
+      _offset: {x: 76, y: -96}
+      _uvSize: {x: 0.1484375, y: 0.1875}
+      _uvOffset: {x: 0.40820312, y: 0.25976562}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_shadow_05
+      _fixTextureName: speed_up_shadow_05
+      _size: {x: 164, y: 188}
+      _offset: {x: 82, y: -94}
+      _uvSize: {x: 0.16015625, y: 0.18359375}
+      _uvOffset: {x: 0.24609375, y: 0.31835938}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_shadow_06
+      _fixTextureName: speed_up_shadow_06
+      _size: {x: 157, y: 195}
+      _offset: {x: 78.5, y: -97.5}
+      _uvSize: {x: 0.15332031, y: 0.19042969}
+      _uvOffset: {x: 0.001953125, y: 0.27246094}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_shadow_07
+      _fixTextureName: speed_up_shadow_07
+      _size: {x: 128, y: 208}
+      _offset: {x: 64, y: -104}
+      _uvSize: {x: 0.125, y: 0.203125}
+      _uvOffset: {x: 0.001953125, y: 0.06738281}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_under_01
+      _fixTextureName: speed_up_under_01
+      _size: {x: 280, y: 264}
+      _offset: {x: 140, y: -132}
+      _uvSize: {x: 0.2734375, y: 0.2578125}
+      _uvOffset: {x: 0.001953125, y: 0.7402344}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_under_02
+      _fixTextureName: speed_up_under_02
+      _size: {x: 256, y: 280}
+      _offset: {x: 128, y: -140}
+      _uvSize: {x: 0.25, y: 0.2734375}
+      _uvOffset: {x: 0.5332031, y: 0.7246094}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_under_03
+      _fixTextureName: speed_up_under_03
+      _size: {x: 232, y: 220}
+      _offset: {x: 116, y: -110}
+      _uvSize: {x: 0.2265625, y: 0.21484375}
+      _uvOffset: {x: 0.24609375, y: 0.50390625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_under_04
+      _fixTextureName: speed_up_under_04
+      _size: {x: 260, y: 284}
+      _offset: {x: 130, y: -142}
+      _uvSize: {x: 0.25390625, y: 0.27734375}
+      _uvOffset: {x: 0.27734375, y: 0.7207031}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_under_05
+      _fixTextureName: speed_up_under_05
+      _size: {x: 248, y: 280}
+      _offset: {x: 124, y: -140}
+      _uvSize: {x: 0.2421875, y: 0.2734375}
+      _uvOffset: {x: 0.001953125, y: 0.46484375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_under_06
+      _fixTextureName: speed_up_under_06
+      _size: {x: 248, y: 280}
+      _offset: {x: 124, y: -140}
+      _uvSize: {x: 0.2421875, y: 0.2734375}
+      _uvOffset: {x: 0.5332031, y: 0.44921875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: speed_up_under_07
+      _fixTextureName: speed_up_under_07
+      _size: {x: 216, y: 296}
+      _offset: {x: 108, y: -148}
+      _uvSize: {x: 0.2109375, y: 0.2890625}
+      _uvOffset: {x: 0.78515625, y: 0.7089844}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

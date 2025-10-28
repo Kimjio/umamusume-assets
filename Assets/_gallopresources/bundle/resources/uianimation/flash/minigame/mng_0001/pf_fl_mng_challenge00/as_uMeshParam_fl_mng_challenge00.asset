@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_mng_challenge00
+  m_EditorClassIdentifier: 
+  _id: 833ff7519f8f0a54ab7c5e9dfbcf43d6
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_mng_challenge00_0
+    _textureSetSize: {x: 2048, y: 1024}
+    _textureSetColor: {fileID: 2800000, guid: b8ff2aa149b4b154184630313b35523b, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: challenge_01
+      _fixTextureName: challenge_01
+      _size: {x: 156, y: 160}
+      _offset: {x: 78, y: -80}
+      _uvSize: {x: 0.076171875, y: 0.15625}
+      _uvOffset: {x: 0.92285156, y: 0.32226562}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_02
+      _fixTextureName: challenge_02
+      _size: {x: 124, y: 152}
+      _offset: {x: 62, y: -76}
+      _uvSize: {x: 0.060546875, y: 0.1484375}
+      _uvOffset: {x: 0.93847656, y: 0.6640625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_03
+      _fixTextureName: challenge_03
+      _size: {x: 112, y: 56}
+      _offset: {x: 56, y: -28}
+      _uvSize: {x: 0.02734375, y: 0.109375}
+      _uvOffset: {x: 0.64941406, y: 0.6171875}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_04
+      _fixTextureName: challenge_04
+      _size: {x: 160, y: 152}
+      _offset: {x: 80, y: -76}
+      _uvSize: {x: 0.07421875, y: 0.15625}
+      _uvOffset: {x: 0.92285156, y: 0.1640625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_05
+      _fixTextureName: challenge_05
+      _size: {x: 172, y: 168}
+      _offset: {x: 86, y: -84}
+      _uvSize: {x: 0.083984375, y: 0.1640625}
+      _uvOffset: {x: 0.8330078, y: 0.14453125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_06
+      _fixTextureName: challenge_06
+      _size: {x: 172, y: 168}
+      _offset: {x: 86, y: -84}
+      _uvSize: {x: 0.083984375, y: 0.1640625}
+      _uvOffset: {x: 0.0009765625, y: 0.13085938}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_07
+      _fixTextureName: challenge_07
+      _size: {x: 188, y: 184}
+      _offset: {x: 94, y: -92}
+      _uvSize: {x: 0.091796875, y: 0.1796875}
+      _uvOffset: {x: 0.20605469, y: 0.27539062}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_08
+      _fixTextureName: challenge_08
+      _size: {x: 188, y: 184}
+      _offset: {x: 94, y: -92}
+      _uvSize: {x: 0.091796875, y: 0.1796875}
+      _uvOffset: {x: 0.46484375, y: 0.25585938}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_09
+      _fixTextureName: challenge_09
+      _size: {x: 188, y: 184}
+      _offset: {x: 94, y: -92}
+      _uvSize: {x: 0.08984375, y: 0.18359375}
+      _uvOffset: {x: 0.5576172, y: 0.25195312}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_10
+      _fixTextureName: challenge_10
+      _size: {x: 108, y: 188}
+      _offset: {x: 54, y: -94}
+      _uvSize: {x: 0.052734375, y: 0.18359375}
+      _uvOffset: {x: 0.93847656, y: 0.8144531}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_01
+      _fixTextureName: challenge_shadow_01
+      _size: {x: 176, y: 180}
+      _offset: {x: 88, y: -90}
+      _uvSize: {x: 0.0859375, y: 0.17578125}
+      _uvOffset: {x: 0.29882812, y: 0.1328125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_02
+      _fixTextureName: challenge_shadow_02
+      _size: {x: 144, y: 168}
+      _offset: {x: 72, y: -84}
+      _uvSize: {x: 0.0703125, y: 0.1640625}
+      _uvOffset: {x: 0.3857422, y: 0.14453125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_03
+      _fixTextureName: challenge_shadow_03
+      _size: {x: 132, y: 76}
+      _offset: {x: 66, y: -38}
+      _uvSize: {x: 0.037109375, y: 0.12890625}
+      _uvOffset: {x: 0.93847656, y: 0.5332031}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_04
+      _fixTextureName: challenge_shadow_04
+      _size: {x: 180, y: 172}
+      _offset: {x: 90, y: -86}
+      _uvSize: {x: 0.087890625, y: 0.16796875}
+      _uvOffset: {x: 0.7441406, y: 0.140625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_05
+      _fixTextureName: challenge_shadow_05
+      _size: {x: 192, y: 188}
+      _offset: {x: 96, y: -94}
+      _uvSize: {x: 0.09375, y: 0.18359375}
+      _uvOffset: {x: 0.64941406, y: 0.28710938}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_06
+      _fixTextureName: challenge_shadow_06
+      _size: {x: 208, y: 204}
+      _offset: {x: 104, y: -102}
+      _uvSize: {x: 0.1015625, y: 0.19921875}
+      _uvOffset: {x: 0.3623047, y: 0.51171875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_07
+      _fixTextureName: challenge_shadow_07
+      _size: {x: 208, y: 204}
+      _offset: {x: 104, y: -102}
+      _uvSize: {x: 0.1015625, y: 0.19921875}
+      _uvOffset: {x: 0.3623047, y: 0.31054688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_08
+      _fixTextureName: challenge_shadow_08
+      _size: {x: 208, y: 204}
+      _offset: {x: 104, y: -102}
+      _uvSize: {x: 0.1015625, y: 0.19921875}
+      _uvOffset: {x: 0.0009765625, y: 0.296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_09
+      _fixTextureName: challenge_shadow_09
+      _size: {x: 208, y: 204}
+      _offset: {x: 104, y: -102}
+      _uvSize: {x: 0.1015625, y: 0.19921875}
+      _uvOffset: {x: 0.103515625, y: 0.296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_shadow_10
+      _fixTextureName: challenge_shadow_10
+      _size: {x: 128, y: 208}
+      _offset: {x: 64, y: -104}
+      _uvSize: {x: 0.0625, y: 0.203125}
+      _uvOffset: {x: 0.46484375, y: 0.5078125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_01
+      _fixTextureName: challenge_under_01
+      _size: {x: 264, y: 268}
+      _offset: {x: 132, y: -134}
+      _uvSize: {x: 0.12890625, y: 0.26171875}
+      _uvOffset: {x: 0.67871094, y: 0.7363281}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_02
+      _fixTextureName: challenge_under_02
+      _size: {x: 224, y: 260}
+      _offset: {x: 112, y: -130}
+      _uvSize: {x: 0.109375, y: 0.25390625}
+      _uvOffset: {x: 0.25195312, y: 0.45703125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_03
+      _fixTextureName: challenge_under_03
+      _size: {x: 232, y: 172}
+      _offset: {x: 116, y: -86}
+      _uvSize: {x: 0.11328125, y: 0.16796875}
+      _uvOffset: {x: 0.80859375, y: 0.31054688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_04
+      _fixTextureName: challenge_under_04
+      _size: {x: 264, y: 260}
+      _offset: {x: 132, y: -130}
+      _uvSize: {x: 0.12890625, y: 0.25390625}
+      _uvOffset: {x: 0.80859375, y: 0.48046875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_05
+      _fixTextureName: challenge_under_05
+      _size: {x: 276, y: 276}
+      _offset: {x: 138, y: -138}
+      _uvSize: {x: 0.13476562, y: 0.26953125}
+      _uvOffset: {x: 0.54296875, y: 0.7285156}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_06
+      _fixTextureName: challenge_under_06
+      _size: {x: 264, y: 268}
+      _offset: {x: 132, y: -134}
+      _uvSize: {x: 0.12890625, y: 0.26171875}
+      _uvOffset: {x: 0.80859375, y: 0.7363281}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_07
+      _fixTextureName: challenge_under_07
+      _size: {x: 264, y: 268}
+      _offset: {x: 132, y: -134}
+      _uvSize: {x: 0.12890625, y: 0.26171875}
+      _uvOffset: {x: 0.67871094, y: 0.47265625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_08
+      _fixTextureName: challenge_under_08
+      _size: {x: 296, y: 292}
+      _offset: {x: 148, y: -146}
+      _uvSize: {x: 0.14453125, y: 0.28515625}
+      _uvOffset: {x: 0.25195312, y: 0.7128906}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_09
+      _fixTextureName: challenge_under_09
+      _size: {x: 296, y: 292}
+      _offset: {x: 148, y: -146}
+      _uvSize: {x: 0.14453125, y: 0.28515625}
+      _uvOffset: {x: 0.39746094, y: 0.7128906}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: challenge_under_10
+      _fixTextureName: challenge_under_10
+      _size: {x: 216, y: 296}
+      _offset: {x: 108, y: -148}
+      _uvSize: {x: 0.10546875, y: 0.2890625}
+      _uvOffset: {x: 0.54296875, y: 0.4375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: eff_backlig02
+      _fixTextureName: eff_backlig02
+      _size: {x: 512, y: 512}
+      _offset: {x: 256, y: -256}
+      _uvSize: {x: 0.25, y: 0.5}
+      _uvOffset: {x: 0.0009765625, y: 0.49804688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

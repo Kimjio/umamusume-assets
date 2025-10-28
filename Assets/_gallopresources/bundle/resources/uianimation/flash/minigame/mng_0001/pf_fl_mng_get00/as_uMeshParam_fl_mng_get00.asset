@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_mng_get00
+  m_EditorClassIdentifier: 
+  _id: a19ebb36661e0a84590f84fdde4249bd
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_mng_get00_0
+    _textureSetSize: {x: 2048, y: 1024}
+    _textureSetColor: {fileID: 2800000, guid: 9ce68d7fea3eae4498625c7d6e3466e5, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: eff_backlig02
+      _fixTextureName: eff_backlig02
+      _size: {x: 512, y: 512}
+      _offset: {x: 256, y: -256}
+      _uvSize: {x: 0.25, y: 0.5}
+      _uvOffset: {x: 0.0009765625, y: 0.49804688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_fail_01
+      _fixTextureName: fail_fail_01
+      _size: {x: 180, y: 184}
+      _offset: {x: 90, y: -92}
+      _uvSize: {x: 0.087890625, y: 0.1796875}
+      _uvOffset: {x: 0.9082031, y: 0.36914062}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_fail_01_shadow
+      _fixTextureName: fail_fail_01_shadow
+      _size: {x: 200, y: 204}
+      _offset: {x: 100, y: -102}
+      _uvSize: {x: 0.09765625, y: 0.19921875}
+      _uvOffset: {x: 0.25195312, y: 0.53125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_fail_01_under
+      _fixTextureName: fail_fail_01_under
+      _size: {x: 264, y: 268}
+      _offset: {x: 132, y: -134}
+      _uvSize: {x: 0.12890625, y: 0.26171875}
+      _uvOffset: {x: 0.6513672, y: 0.7363281}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_fail_02
+      _fixTextureName: fail_fail_02
+      _size: {x: 184, y: 180}
+      _offset: {x: 92, y: -90}
+      _uvSize: {x: 0.08984375, y: 0.17578125}
+      _uvOffset: {x: 0.9082031, y: 0.55078125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_fail_02_shadow
+      _fixTextureName: fail_fail_02_shadow
+      _size: {x: 204, y: 200}
+      _offset: {x: 102, y: -100}
+      _uvSize: {x: 0.099609375, y: 0.1953125}
+      _uvOffset: {x: 0.6220703, y: 0.5390625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_fail_02_under
+      _fixTextureName: fail_fail_02_under
+      _size: {x: 268, y: 264}
+      _offset: {x: 134, y: -132}
+      _uvSize: {x: 0.13085938, y: 0.2578125}
+      _uvOffset: {x: 0.51953125, y: 0.7402344}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_01
+      _fixTextureName: fail_ten_01
+      _size: {x: 60, y: 60}
+      _offset: {x: 30, y: -30}
+      _uvSize: {x: 0.029296875, y: 0.05859375}
+      _uvOffset: {x: 0.48828125, y: 0.67578125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_01_shadow
+      _fixTextureName: fail_ten_01_shadow
+      _size: {x: 80, y: 80}
+      _offset: {x: 40, y: -40}
+      _uvSize: {x: 0.0390625, y: 0.078125}
+      _uvOffset: {x: 0.85546875, y: 0.46679688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_01_under
+      _fixTextureName: fail_ten_01_under
+      _size: {x: 144, y: 144}
+      _offset: {x: 72, y: -72}
+      _uvSize: {x: 0.0703125, y: 0.140625}
+      _uvOffset: {x: 0.54785156, y: 0.39648438}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_02
+      _fixTextureName: fail_ten_02
+      _size: {x: 60, y: 60}
+      _offset: {x: 30, y: -30}
+      _uvSize: {x: 0.029296875, y: 0.05859375}
+      _uvOffset: {x: 0.35058594, y: 0.671875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_02_shadow
+      _fixTextureName: fail_ten_02_shadow
+      _size: {x: 80, y: 80}
+      _offset: {x: 40, y: -40}
+      _uvSize: {x: 0.0390625, y: 0.078125}
+      _uvOffset: {x: 0.25195312, y: 0.45117188}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_02_under
+      _fixTextureName: fail_ten_02_under
+      _size: {x: 144, y: 144}
+      _offset: {x: 72, y: -72}
+      _uvSize: {x: 0.0703125, y: 0.140625}
+      _uvOffset: {x: 0.6191406, y: 0.39648438}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_03
+      _fixTextureName: fail_ten_03
+      _size: {x: 60, y: 60}
+      _offset: {x: 30, y: -30}
+      _uvSize: {x: 0.029296875, y: 0.05859375}
+      _uvOffset: {x: 0.48828125, y: 0.6152344}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_03_shadow
+      _fixTextureName: fail_ten_03_shadow
+      _size: {x: 80, y: 80}
+      _offset: {x: 40, y: -40}
+      _uvSize: {x: 0.0390625, y: 0.078125}
+      _uvOffset: {x: 0.2919922, y: 0.45117188}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: fail_ten_03_under
+      _fixTextureName: fail_ten_03_under
+      _size: {x: 144, y: 144}
+      _offset: {x: 72, y: -72}
+      _uvSize: {x: 0.0703125, y: 0.140625}
+      _uvOffset: {x: 0.35058594, y: 0.39257812}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_ex_01
+      _fixTextureName: get_ex_01
+      _size: {x: 108, y: 192}
+      _offset: {x: 54, y: -96}
+      _uvSize: {x: 0.052734375, y: 0.1875}
+      _uvOffset: {x: 0.421875, y: 0.34570312}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_ex_01_shadow
+      _fixTextureName: get_ex_01_shadow
+      _size: {x: 128, y: 212}
+      _offset: {x: 64, y: -106}
+      _uvSize: {x: 0.0625, y: 0.20703125}
+      _uvOffset: {x: 0.7919922, y: 0.33789062}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_ex_01_under
+      _fixTextureName: get_ex_01_under
+      _size: {x: 192, y: 276}
+      _offset: {x: 96, y: -138}
+      _uvSize: {x: 0.09375, y: 0.26953125}
+      _uvOffset: {x: 0.88378906, y: 0.7285156}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_ex_02
+      _fixTextureName: get_ex_02
+      _size: {x: 120, y: 188}
+      _offset: {x: 60, y: -94}
+      _uvSize: {x: 0.05859375, y: 0.18359375}
+      _uvOffset: {x: 0.48828125, y: 0.35351562}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_ex_02_shadow
+      _fixTextureName: get_ex_02_shadow
+      _size: {x: 140, y: 208}
+      _offset: {x: 70, y: -104}
+      _uvSize: {x: 0.068359375, y: 0.203125}
+      _uvOffset: {x: 0.72265625, y: 0.34179688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_ex_02_under
+      _fixTextureName: get_ex_02_under
+      _size: {x: 208, y: 272}
+      _offset: {x: 104, y: -136}
+      _uvSize: {x: 0.1015625, y: 0.265625}
+      _uvOffset: {x: 0.78125, y: 0.7324219}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_get_01
+      _fixTextureName: get_get_01
+      _size: {x: 188, y: 188}
+      _offset: {x: 94, y: -94}
+      _uvSize: {x: 0.091796875, y: 0.18359375}
+      _uvOffset: {x: 0.72265625, y: 0.546875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_get_01_shadow
+      _fixTextureName: get_get_01_shadow
+      _size: {x: 208, y: 204}
+      _offset: {x: 104, y: -102}
+      _uvSize: {x: 0.1015625, y: 0.19921875}
+      _uvOffset: {x: 0.51953125, y: 0.5390625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_get_01_under
+      _fixTextureName: get_get_01_under
+      _size: {x: 272, y: 272}
+      _offset: {x: 136, y: -136}
+      _uvSize: {x: 0.1328125, y: 0.265625}
+      _uvOffset: {x: 0.25195312, y: 0.7324219}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_get_02
+      _fixTextureName: get_get_02
+      _size: {x: 188, y: 184}
+      _offset: {x: 94, y: -92}
+      _uvSize: {x: 0.091796875, y: 0.1796875}
+      _uvOffset: {x: 0.8154297, y: 0.546875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_get_02_shadow
+      _fixTextureName: get_get_02_shadow
+      _size: {x: 208, y: 204}
+      _offset: {x: 104, y: -102}
+      _uvSize: {x: 0.1015625, y: 0.19921875}
+      _uvOffset: {x: 0.3857422, y: 0.53515625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: get_get_02_under
+      _fixTextureName: get_get_02_under
+      _size: {x: 272, y: 268}
+      _offset: {x: 136, y: -134}
+      _uvSize: {x: 0.1328125, y: 0.26171875}
+      _uvOffset: {x: 0.3857422, y: 0.7363281}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

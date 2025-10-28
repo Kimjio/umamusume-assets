@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_chara_rarity_upgrade_stars00
+  m_EditorClassIdentifier: 
+  _id: 0dd8a35b6c3e7b54f82d1ed0c962f5d4
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_chara_rarity_upgrade_stars00_0
+    _textureSetSize: {x: 1024, y: 1024}
+    _textureSetColor: {fileID: 2800000, guid: f59f6a01aa419e649943081ca6f5beed, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: eff_star00
+      _fixTextureName: eff_star00
+      _size: {x: 161, y: 182}
+      _offset: {x: 80.5, y: -91}
+      _uvSize: {x: 0.15722656, y: 0.17773438}
+      _uvOffset: {x: 0.18359375, y: 0.4423828}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: ex
+      _fixTextureName: ex
+      _size: {x: 104, y: 148}
+      _offset: {x: 52, y: -74}
+      _uvSize: {x: 0.14453125, y: 0.1015625}
+      _uvOffset: {x: 0.77246094, y: 0.01171875}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: ex_s
+      _fixTextureName: ex_s
+      _size: {x: 112, y: 156}
+      _offset: {x: 56, y: -78}
+      _uvSize: {x: 0.15234375, y: 0.109375}
+      _uvOffset: {x: 0.2890625, y: 0.034179688}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: ka
+      _fixTextureName: ka
+      _size: {x: 152, y: 152}
+      _offset: {x: 76, y: -76}
+      _uvSize: {x: 0.1484375, y: 0.1484375}
+      _uvOffset: {x: 0.5673828, y: 0.71777344}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: ka_s
+      _fixTextureName: ka_s
+      _size: {x: 156, y: 156}
+      _offset: {x: 78, y: -78}
+      _uvSize: {x: 0.15234375, y: 0.15234375}
+      _uvOffset: {x: 0.001953125, y: 0.2861328}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: kai1
+      _fixTextureName: kai1
+      _size: {x: 160, y: 152}
+      _offset: {x: 80, y: -76}
+      _uvSize: {x: 0.15625, y: 0.1484375}
+      _uvOffset: {x: 0.3408203, y: 0.2919922}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: kai_s
+      _fixTextureName: kai_s
+      _size: {x: 160, y: 152}
+      _offset: {x: 80, y: -76}
+      _uvSize: {x: 0.1484375, y: 0.15625}
+      _uvOffset: {x: 0.4169922, y: 0.70996094}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: kan1
+      _fixTextureName: kan1
+      _size: {x: 156, y: 148}
+      _offset: {x: 78, y: -74}
+      _uvSize: {x: 0.15234375, y: 0.14453125}
+      _uvOffset: {x: 0.3408203, y: 0.14550781}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: kan_s
+      _fixTextureName: kan_s
+      _size: {x: 160, y: 152}
+      _offset: {x: 80, y: -76}
+      _uvSize: {x: 0.15625, y: 0.1484375}
+      _uvOffset: {x: 0.4169922, y: 0.5595703}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: line_01_h
+      _fixTextureName: line_01_h
+      _size: {x: 790, y: 51}
+      _offset: {x: 395, y: -25.5}
+      _uvSize: {x: 0.049804688, y: 0.7714844}
+      _uvOffset: {x: 0.7832031, y: 0.2265625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: line_02_h
+      _fixTextureName: line_02_h
+      _size: {x: 798, y: 133}
+      _offset: {x: 399, y: -66.5}
+      _uvSize: {x: 0.7792969, y: 0.12988281}
+      _uvOffset: {x: 0.001953125, y: 0.86816406}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: line_03_h
+      _fixTextureName: line_03_h
+      _size: {x: 904, y: 32}
+      _offset: {x: 452, y: -16}
+      _uvSize: {x: 0.03125, y: 0.8828125}
+      _uvOffset: {x: 0.83496094, y: 0.115234375}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: ryo1
+      _fixTextureName: ryo1
+      _size: {x: 132, y: 148}
+      _offset: {x: 66, y: -74}
+      _uvSize: {x: 0.12890625, y: 0.14453125}
+      _uvOffset: {x: 0.4951172, y: 0.0107421875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: ryo_s
+      _fixTextureName: ryo_s
+      _size: {x: 136, y: 152}
+      _offset: {x: 68, y: -76}
+      _uvSize: {x: 0.1328125, y: 0.1484375}
+      _uvOffset: {x: 0.15429688, y: 0.13476562}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_gritter
+      _fixTextureName: star_gritter
+      _size: {x: 158, y: 154}
+      _offset: {x: 79, y: -77}
+      _uvSize: {x: 0.15039062, y: 0.15429688}
+      _uvOffset: {x: 0.001953125, y: 0.12988281}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_on
+      _fixTextureName: star_on
+      _size: {x: 144, y: 136}
+      _offset: {x: 72, y: -68}
+      _uvSize: {x: 0.140625, y: 0.1328125}
+      _uvOffset: {x: 0.4951172, y: 0.15722656}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_ring
+      _fixTextureName: star_ring
+      _size: {x: 171, y: 167}
+      _offset: {x: 85.5, y: -83.5}
+      _uvSize: {x: 0.16699219, y: 0.16308594}
+      _uvOffset: {x: 0.24804688, y: 0.703125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_shadow
+      _fixTextureName: star_shadow
+      _size: {x: 144, y: 136}
+      _offset: {x: 72, y: -68}
+      _uvSize: {x: 0.1328125, y: 0.140625}
+      _uvOffset: {x: 0.6376953, y: 0.083984375}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_0
+      _fixTextureName: star_spec_0
+      _size: {x: 100, y: 124}
+      _offset: {x: 50, y: -62}
+      _uvSize: {x: 0.12109375, y: 0.09765625}
+      _uvOffset: {x: 0.34277344, y: 0.45996094}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_1
+      _fixTextureName: star_spec_1
+      _size: {x: 80, y: 124}
+      _offset: {x: 40, y: -62}
+      _uvSize: {x: 0.12109375, y: 0.078125}
+      _uvOffset: {x: 0.62597656, y: 0.00390625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_2
+      _fixTextureName: star_spec_2
+      _size: {x: 108, y: 124}
+      _offset: {x: 54, y: -62}
+      _uvSize: {x: 0.12109375, y: 0.10546875}
+      _uvOffset: {x: 0.001953125, y: 0.022460938}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_3
+      _fixTextureName: star_spec_3
+      _size: {x: 132, y: 88}
+      _offset: {x: 66, y: -44}
+      _uvSize: {x: 0.12890625, y: 0.0859375}
+      _uvOffset: {x: 0.5751953, y: 0.6298828}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_4
+      _fixTextureName: star_spec_4
+      _size: {x: 132, y: 88}
+      _offset: {x: 66, y: -44}
+      _uvSize: {x: 0.12890625, y: 0.0859375}
+      _uvOffset: {x: 0.49902344, y: 0.3642578}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_5
+      _fixTextureName: star_spec_5
+      _size: {x: 108, y: 128}
+      _offset: {x: 54, y: -64}
+      _uvSize: {x: 0.125, y: 0.10546875}
+      _uvOffset: {x: 0.15429688, y: 0.02734375}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_6
+      _fixTextureName: star_spec_6
+      _size: {x: 84, y: 128}
+      _offset: {x: 42, y: -64}
+      _uvSize: {x: 0.125, y: 0.08203125}
+      _uvOffset: {x: 0.6376953, y: 0.2841797}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_7
+      _fixTextureName: star_spec_7
+      _size: {x: 108, y: 124}
+      _offset: {x: 54, y: -62}
+      _uvSize: {x: 0.12109375, y: 0.10546875}
+      _uvOffset: {x: 0.49902344, y: 0.45214844}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_8
+      _fixTextureName: star_spec_8
+      _size: {x: 132, y: 88}
+      _offset: {x: 66, y: -44}
+      _uvSize: {x: 0.0859375, y: 0.12890625}
+      _uvOffset: {x: 0.6220703, y: 0.49902344}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: star_spec_9
+      _fixTextureName: star_spec_9
+      _size: {x: 132, y: 88}
+      _offset: {x: 66, y: -44}
+      _uvSize: {x: 0.0859375, y: 0.12890625}
+      _uvOffset: {x: 0.6298828, y: 0.36816406}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: tx_box_white00
+      _fixTextureName: tx_box_white00
+      _size: {x: 184, y: 184}
+      _offset: {x: 0, y: -92}
+      _uvSize: {x: 0.1796875, y: 0.1796875}
+      _uvOffset: {x: 0.001953125, y: 0.4404297}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: tx_ef_ring_loop
+      _fixTextureName: tx_ef_ring_loop
+      _size: {x: 159, y: 159}
+      _offset: {x: 0.025, y: -0.025}
+      _uvSize: {x: 0.15527344, y: 0.15527344}
+      _uvOffset: {x: 0.18359375, y: 0.28515625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: utx_ico_limit_02-1
+      _fixTextureName: utx_ico_limit_02-1
+      _size: {x: 250, y: 250}
+      _offset: {x: 125, y: -125}
+      _uvSize: {x: 0.24414062, y: 0.24414062}
+      _uvOffset: {x: 0.001953125, y: 0.6220703}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_mng_finish00
+  m_EditorClassIdentifier: 
+  _id: 7f3cc89e9e5b7c746b6cced389483646
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_mng_finish00_0
+    _textureSetSize: {x: 1024, y: 1024}
+    _textureSetColor: {fileID: 2800000, guid: 5ed48ed9e5f6ecb4db6b01b2aa44a495, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: finish_ex_01
+      _fixTextureName: finish_ex_01
+      _size: {x: 108, y: 192}
+      _offset: {x: 54, y: -96}
+      _uvSize: {x: 0.10546875, y: 0.1875}
+      _uvOffset: {x: 0.69140625, y: 0.1328125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_ex_01_shadow
+      _fixTextureName: finish_ex_01_shadow
+      _size: {x: 128, y: 212}
+      _offset: {x: 64, y: -106}
+      _uvSize: {x: 0.125, y: 0.20703125}
+      _uvOffset: {x: 0.16210938, y: 0.15234375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_ex_01_under
+      _fixTextureName: finish_ex_01_under
+      _size: {x: 192, y: 276}
+      _offset: {x: 96, y: -138}
+      _uvSize: {x: 0.1875, y: 0.26953125}
+      _uvOffset: {x: 0.75390625, y: 0.49609375}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_finish_01
+      _fixTextureName: finish_finish_01
+      _size: {x: 188, y: 184}
+      _offset: {x: 94, y: -92}
+      _uvSize: {x: 0.18359375, y: 0.1796875}
+      _uvOffset: {x: 0.18945312, y: 0.36132812}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_finish_01_shadow
+      _fixTextureName: finish_finish_01_shadow
+      _size: {x: 208, y: 204}
+      _offset: {x: 104, y: -102}
+      _uvSize: {x: 0.203125, y: 0.19921875}
+      _uvOffset: {x: 0.26953125, y: 0.54296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_finish_01_under
+      _fixTextureName: finish_finish_01_under
+      _size: {x: 272, y: 268}
+      _offset: {x: 136, y: -134}
+      _uvSize: {x: 0.265625, y: 0.26171875}
+      _uvOffset: {x: 0.001953125, y: 0.7363281}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_finish_02
+      _fixTextureName: finish_finish_02
+      _size: {x: 148, y: 180}
+      _offset: {x: 74, y: -90}
+      _uvSize: {x: 0.14453125, y: 0.17578125}
+      _uvOffset: {x: 0.2890625, y: 0.16796875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_finish_02_shadow
+      _fixTextureName: finish_finish_02_shadow
+      _size: {x: 168, y: 200}
+      _offset: {x: 84, y: -100}
+      _uvSize: {x: 0.1640625, y: 0.1953125}
+      _uvOffset: {x: 0.375, y: 0.34570312}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_finish_02_under
+      _fixTextureName: finish_finish_02_under
+      _size: {x: 232, y: 268}
+      _offset: {x: 116, y: -134}
+      _uvSize: {x: 0.2265625, y: 0.26171875}
+      _uvOffset: {x: 0.5253906, y: 0.7363281}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_01
+      _fixTextureName: finish_game_01
+      _size: {x: 176, y: 176}
+      _offset: {x: 88, y: -88}
+      _uvSize: {x: 0.171875, y: 0.171875}
+      _uvOffset: {x: 0.72265625, y: 0.32226562}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_01_shadow
+      _fixTextureName: finish_game_01_shadow
+      _size: {x: 196, y: 196}
+      _offset: {x: 98, y: -98}
+      _uvSize: {x: 0.19140625, y: 0.19140625}
+      _uvOffset: {x: 0.47460938, y: 0.54296875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_01_under
+      _fixTextureName: finish_game_01_under
+      _size: {x: 260, y: 260}
+      _offset: {x: 130, y: -130}
+      _uvSize: {x: 0.25390625, y: 0.25390625}
+      _uvOffset: {x: 0.26953125, y: 0.7441406}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_02
+      _fixTextureName: finish_game_02
+      _size: {x: 164, y: 152}
+      _offset: {x: 82, y: -76}
+      _uvSize: {x: 0.1484375, y: 0.16015625}
+      _uvOffset: {x: 0.001953125, y: 0.16210938}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_02_shadow
+      _fixTextureName: finish_game_02_shadow
+      _size: {x: 184, y: 172}
+      _offset: {x: 92, y: -86}
+      _uvSize: {x: 0.1796875, y: 0.16796875}
+      _uvOffset: {x: 0.5410156, y: 0.37304688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_02_under
+      _fixTextureName: finish_game_02_under
+      _size: {x: 248, y: 236}
+      _offset: {x: 124, y: -118}
+      _uvSize: {x: 0.2421875, y: 0.23046875}
+      _uvOffset: {x: 0.75390625, y: 0.7675781}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_03
+      _fixTextureName: finish_game_03
+      _size: {x: 152, y: 185}
+      _offset: {x: 76, y: -92.5}
+      _uvSize: {x: 0.1484375, y: 0.18066406}
+      _uvOffset: {x: 0.5410156, y: 0.19042969}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_03_shadow
+      _fixTextureName: finish_game_03_shadow
+      _size: {x: 162, y: 195}
+      _offset: {x: 81, y: -97.5}
+      _uvSize: {x: 0.15820312, y: 0.19042969}
+      _uvOffset: {x: 0.001953125, y: 0.32421875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: finish_game_03_under
+      _fixTextureName: finish_game_03_under
+      _size: {x: 190, y: 223}
+      _offset: {x: 95, y: -111.5}
+      _uvSize: {x: 0.18554688, y: 0.21777344}
+      _uvOffset: {x: 0.001953125, y: 0.51660156}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
