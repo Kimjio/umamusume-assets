@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_team_txt_finishrace00
+  m_EditorClassIdentifier: 
+  _id: 94b3a7e98f546054ba27daab0ffc5a17
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_team_txt_finishrace00_0
+    _textureSetSize: {x: 1024, y: 1024}
+    _textureSetColor: {fileID: 2800000, guid: 4054e9605e6f1854d8f7ccf6c3016d9c, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: eff_star00
+      _fixTextureName: eff_star00
+      _size: {x: 161, y: 182}
+      _offset: {x: 80.5, y: -91}
+      _uvSize: {x: 0.17773438, y: 0.15722656}
+      _uvOffset: {x: 0.001953125, y: 0.52734375}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_finishrace00
+      _fixTextureName: img_txt_finishrace00
+      _size: {x: 150, y: 150}
+      _offset: {x: 75, y: -75}
+      _uvSize: {x: 0.14648438, y: 0.14648438}
+      _uvOffset: {x: 0.18164062, y: 0.53808594}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_finishrace01
+      _fixTextureName: img_txt_finishrace01
+      _size: {x: 150, y: 150}
+      _offset: {x: 75, y: -75}
+      _uvSize: {x: 0.14648438, y: 0.14648438}
+      _uvOffset: {x: 0.18359375, y: 0.71972656}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_finishrace02
+      _fixTextureName: img_txt_finishrace02
+      _size: {x: 150, y: 150}
+      _offset: {x: 75, y: -75}
+      _uvSize: {x: 0.14648438, y: 0.14648438}
+      _uvOffset: {x: 0.18164062, y: 0.38964844}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_finishrace03
+      _fixTextureName: img_txt_finishrace03
+      _size: {x: 150, y: 150}
+      _offset: {x: 75, y: -75}
+      _uvSize: {x: 0.14648438, y: 0.14648438}
+      _uvOffset: {x: 0.001953125, y: 0.37890625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_finishrace04
+      _fixTextureName: img_txt_finishrace04
+      _size: {x: 150, y: 150}
+      _offset: {x: 75, y: -75}
+      _uvSize: {x: 0.14648438, y: 0.14648438}
+      _uvOffset: {x: 0.15039062, y: 0.24121094}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: img_txt_finishrace05
+      _fixTextureName: img_txt_finishrace05
+      _size: {x: 94, y: 132}
+      _offset: {x: 47, y: -66}
+      _uvSize: {x: 0.091796875, y: 0.12890625}
+      _uvOffset: {x: 0.001953125, y: 0.24804688}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: line_01_h
+      _fixTextureName: line_01_h
+      _size: {x: 790, y: 51}
+      _offset: {x: 395, y: -25.5}
+      _uvSize: {x: 0.049804688, y: 0.7714844}
+      _uvOffset: {x: 0.7832031, y: 0.2265625}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: line_02_h
+      _fixTextureName: line_02_h
+      _size: {x: 798, y: 133}
+      _offset: {x: 399, y: -66.5}
+      _uvSize: {x: 0.7792969, y: 0.12988281}
+      _uvOffset: {x: 0.001953125, y: 0.86816406}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: line_03_h
+      _fixTextureName: line_03_h
+      _size: {x: 904, y: 32}
+      _offset: {x: 452, y: -16}
+      _uvSize: {x: 0.03125, y: 0.8828125}
+      _uvOffset: {x: 0.83496094, y: 0.115234375}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: tx_box_white00
+      _fixTextureName: tx_box_white00
+      _size: {x: 184, y: 184}
+      _offset: {x: 0, y: -92}
+      _uvSize: {x: 0.1796875, y: 0.1796875}
+      _uvOffset: {x: 0.001953125, y: 0.68652344}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_singlemode_teamrace_txt_finishrace00
+  m_EditorClassIdentifier: 
+  _id: 682c9729018a8d542bd4b98d8ccdb649
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_singlemode_teamrace_txt_finishrace00_0
+    _textureSetSize: {x: 512, y: 512}
+    _textureSetColor: {fileID: 2800000, guid: d5e30162770e3ad4b97e0a41d7450a82, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: txt_-
+      _fixTextureName: txt_-
+      _size: {x: 133, y: 130}
+      _offset: {x: 66.5, y: -65}
+      _uvSize: {x: 0.25976562, y: 0.25390625}
+      _uvOffset: {x: 0.578125, y: 0.48632812}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: txt_re
+      _fixTextureName: txt_re
+      _size: {x: 128, y: 131}
+      _offset: {x: 64, y: -65.5}
+      _uvSize: {x: 0.25585938, y: 0.25}
+      _uvOffset: {x: 0.30859375, y: 0.48828125}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: txt_ryo
+      _fixTextureName: txt_ryo
+      _size: {x: 129, y: 136}
+      _offset: {x: 64.5, y: -68}
+      _uvSize: {x: 0.265625, y: 0.25195312}
+      _uvOffset: {x: 0.578125, y: 0.7441406}
+      _rotated: 1
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: txt_shu
+      _fixTextureName: txt_shu
+      _size: {x: 154, y: 140}
+      _offset: {x: 77, y: -70}
+      _uvSize: {x: 0.30078125, y: 0.2734375}
+      _uvOffset: {x: 0.00390625, y: 0.72265625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: txt_su
+      _fixTextureName: txt_su
+      _size: {x: 136, y: 130}
+      _offset: {x: 68, y: -65}
+      _uvSize: {x: 0.265625, y: 0.25390625}
+      _uvOffset: {x: 0.30859375, y: 0.7421875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
