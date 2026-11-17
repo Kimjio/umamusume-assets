@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175eb0c11ff45a74fad29cba61d4f12e, type: 3}
+  m_Name: as_uMeshParam_fl_schedulebook_txt_progress00
+  m_EditorClassIdentifier: 
+  _id: b1f5adbe9b76bb24f8ca9c2ce35946b6
+  _customMeshInfoParameterList: []
+  _meshParameterGroupList:
+  - _textureSetName: tx_uTex_fl_schedulebook_txt_progress00_0
+    _textureSetSize: {x: 256, y: 256}
+    _textureSetColor: {fileID: 2800000, guid: 7eff848eb683e6144b55579224990cd3, type: 3}
+    _textureSetAlpha: {fileID: 0}
+    _textureSetColorFormat: 0
+    _textureSetAlphaFormat: 0
+    _textureCombinationType: 3
+    _meshInfoParameterList:
+    - _textureName: text_skip_00
+      _fixTextureName: text_skip_00
+      _size: {x: 76, y: 76}
+      _offset: {x: 38, y: -38}
+      _uvSize: {x: 0.296875, y: 0.296875}
+      _uvOffset: {x: 0.6484375, y: 0.6953125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: text_skip_01
+      _fixTextureName: text_skip_01
+      _size: {x: 72, y: 68}
+      _offset: {x: 36, y: -34}
+      _uvSize: {x: 0.28125, y: 0.265625}
+      _uvOffset: {x: 0.6328125, y: 0.421875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: text_skip_02
+      _fixTextureName: text_skip_02
+      _size: {x: 76, y: 76}
+      _offset: {x: 38, y: -38}
+      _uvSize: {x: 0.296875, y: 0.296875}
+      _uvOffset: {x: 0.328125, y: 0.390625}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: text_skip_03
+      _fixTextureName: text_skip_03
+      _size: {x: 80, y: 76}
+      _offset: {x: 40, y: -38}
+      _uvSize: {x: 0.3125, y: 0.296875}
+      _uvOffset: {x: 0.328125, y: 0.6953125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: text_skip_04
+      _fixTextureName: text_skip_04
+      _size: {x: 80, y: 80}
+      _offset: {x: 40, y: -40}
+      _uvSize: {x: 0.3125, y: 0.3125}
+      _uvOffset: {x: 0.0078125, y: 0.6796875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: text_skip_05
+      _fixTextureName: text_skip_05
+      _size: {x: 44, y: 44}
+      _offset: {x: 22, y: -22}
+      _uvSize: {x: 0.171875, y: 0.171875}
+      _uvOffset: {x: 0.0078125, y: 0.5}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: text_skip_06
+      _fixTextureName: text_skip_06
+      _size: {x: 44, y: 44}
+      _offset: {x: 22, y: -22}
+      _uvSize: {x: 0.171875, y: 0.171875}
+      _uvOffset: {x: 0.0078125, y: 0.3203125}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
+    - _textureName: text_skip_07
+      _fixTextureName: text_skip_07
+      _size: {x: 44, y: 44}
+      _offset: {x: 22, y: -22}
+      _uvSize: {x: 0.171875, y: 0.171875}
+      _uvOffset: {x: 0.6328125, y: 0.2421875}
+      _rotated: 0
+      _meshType: 0
+      _sliceRange: {x: 0, y: 0, z: 0, w: 0}
